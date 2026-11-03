@@ -1,6 +1,6 @@
 # Cesare Pillai
 
-I'm building OverView, an independent desktop application designed to make working with large language models clear, intuitive and coherent, with local models at its core.
+I'm building OverTone, an independent desktop application designed to make working with large language models clear, intuitive and coherent, with local models at its core.
 
 I define the product direction, shape the user experience and guide implementation. My focus is on how the application works as a whole: its workflows, interface, behaviour and technical foundations.
 
